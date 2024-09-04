@@ -26,10 +26,10 @@
 ### :smail: Услуги :
 
 <div>
-    <a href="https://nil-agency.ru/#!/tab/767383238-1" target="_blank">
+    <a href="https://nil-agency.ru/#!/tab/767383238-1" target="_blank" >
         <img src="img/web-analysis-chart-svgrepo-com.svg" title="Сайт" alt="Java" width="40" height="40"/>&nbsp;
     </a>
-    <a href="https://nil-agency.ru/#!/tab/767383238-2" target="_blank">
+    <a href="https://nil-agency.ru/#!/tab/767383238-2" target="_blank" margin="10px">
         <img src="img/services-svgrepo-com.svg" title="Веб-сервисы" alt="React" width="40" height="40"/>&nbsp;
     </a>
     <a href="https://nil-agency.ru/#!/tab/767383238-3" target="_blank">
