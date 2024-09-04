@@ -24,7 +24,20 @@
 </div>
 
 
-
+<div>
+    <a href="https://nil-agency.ru/#!/tab/767383238-1">
+        <img src="img/web-analysis-chart-svgrepo-com.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://nil-agency.ru/#!/tab/767383238-2">
+        <img src="img/services-svgrepo-com.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://nil-agency.ru/#!/tab/767383238-3">
+        <img src="img/chatbot_3b8o4sagk884.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+    </a>
+    <a href="https://nil-agency.ru/#!/tab/767383238-4">
+        <img src="img/design_40lz0wzeilwd.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+    </a>
+</div>
 
 
 ---
