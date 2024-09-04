@@ -10,4 +10,5 @@
   <a href="https://wa.me/79138900890">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
   </a>
+    <img src="https://komarev.com/ghpvc/?username=nil-it&style=flat-square&color=blue" alt=""/>
 </div>
