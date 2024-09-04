@@ -12,30 +12,31 @@
   </a>
 </div>
 
+<div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=nil-it&style=flat-square&color=blue" alt=""/>
+</div>
 
 ### :woman_technologist: Делаем бизнес лучше :
 
 - *3 ГОДА* на рынке IT-услуг
 - *100+* реализованных проектов
 
+---
 
-<div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=nil-it&style=flat-square&color=blue" alt=""/>
-</div>
-
+### :smail: Услуги :
 
 <div>
-    <a href="https://nil-agency.ru/#!/tab/767383238-1">
-        <img src="img/web-analysis-chart-svgrepo-com.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <a href="https://nil-agency.ru/#!/tab/767383238-1" target="_blank">
+        <img src="img/web-analysis-chart-svgrepo-com.svg" title="Сайт" alt="Java" width="40" height="40"/>&nbsp;
     </a>
-    <a href="https://nil-agency.ru/#!/tab/767383238-2">
-        <img src="img/services-svgrepo-com.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <a href="https://nil-agency.ru/#!/tab/767383238-2" target="_blank">
+        <img src="img/services-svgrepo-com.svg" title="Веб-сервисы" alt="React" width="40" height="40"/>&nbsp;
     </a>
-    <a href="https://nil-agency.ru/#!/tab/767383238-3">
-        <img src="img/chatbot_3b8o4sagk884.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+    <a href="https://nil-agency.ru/#!/tab/767383238-3" target="_blank">
+        <img src="img/chatbot_3b8o4sagk884.svg" title="Чат-бот" alt="Spring" width="40" height="40"/>&nbsp;
     </a>
-    <a href="https://nil-agency.ru/#!/tab/767383238-4">
-        <img src="img/design_40lz0wzeilwd.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+    <a href="https://nil-agency.ru/#!/tab/767383238-4" target="_blank">
+        <img src="img/design_40lz0wzeilwd.svg" title="Дизайн" alt="Material UI" width="40" height="40"/>&nbsp;
     </a>
 </div>
 
